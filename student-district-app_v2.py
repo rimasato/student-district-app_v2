@@ -70,7 +70,7 @@ def draw_map():
 
 # Streamlit UI
 def main():
-    st.title("長町小学校・地区別児童数集計アプリ")
+    st.title("地区マッピングツール")
     
     # 地図をページの一番上に表示
     draw_map()
